@@ -1,0 +1,22 @@
+The Magic of Hulu: Why Our Favorite Television Shows Are Watchable
+By: Melissa Schneider
+
+The people of our magazine recently came in contact with the brains behind the website Hulu. Just in case you were wondering, here a few things about their technology stack that interested us:
+
+  About the company:
+	
+	Hulu is an online video service that allows anyone with internet access to watch hit television shows and movies. It was founded in March of 2007 and has been popular ever since. The company is operated independently from several cities around the United States such as Los Angeles, New York, Chicago and Seattle. 
+
+	Application Servers:
+	
+	Hulu uses three Content Delivery Networks to service their content to the Internet for uses to watch. They use these networks to access files, data and to stream their online content. The three CDN’s are: Akamai Technologies, Level 3 Communications and Limelight Networks.
+
+	Hulu uses Akamai Technologies, Inc. to host their videos. This technology mirrors  content, like HTML, CSS, and software downloads. By doing this, they have an IP address that leads to an Akamai server based on location or type of content. There are about 60 domains that this company uses to transfer videos from their computers onto a user’s computer. 
+
+	Level 3 Communications is an IP network used by Hulu because of its ability to access other top networks without cost. This company uses Flash Media Servers to host online content such as the videos. The technology is very fast so that the user can automatically reach the video for live streaming.
+
+	Limelight Networks uses Adaptive Intelligence software in order to put different video content onto an in-network cache. Hulu uses this company so that it can monitor the video quality and fix things immediately when they need to be fixed. This technology network allows the videos to be played very quickly.
+
+	Security:
+	
+	Hulu uses paid advertisements as commercials as part of their security approach. Since they use content delivery networks to host their videos, there is no spam on their website. In order to watch the videos, the user must watch the advertisements for 30-90 seconds during the show. Hulu’s website is spam free and uses safe CDN’s through IP addresses to play their videos sufficiently. 
