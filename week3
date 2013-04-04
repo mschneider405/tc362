@@ -1,0 +1,10 @@
+1. 480
+- ls -l | grep -v -l | wc -l
+2. ⁃ devices
+⁃ cd into proc folder and type in "ls" command.
+3. ⁃ Eastern
+⁃ typing in "date" shows you your timezone
+4. 62
+"cat /etc/group" will show the default groups
+5. ⁃ 0,1,1,2,3,5,8,13,21,34,55,89,144,233,377,610,987,1597,2584,4181
+⁃ fibonacci sequence 
